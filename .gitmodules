@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository_Romanovskiy"]
+	path = SubmoduleRepository_Romanovskiy
+	url = git@github.com:Fedor-Romanovskiy/SubmoduleRepository_Romanovskiy.git
